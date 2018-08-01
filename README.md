@@ -5,7 +5,7 @@
 
 **Carrisa Cocuzza** (carrisacocuzza@gmail.com), The Cole Lab (http://www.colelab.org/)
 
-See README.md for general usage instructions and comments
+See genUsage.txt for general usage instructions and comments
 
 ## Directory Structure
 Ordered by project workflow (e.g., not alphabetical)
