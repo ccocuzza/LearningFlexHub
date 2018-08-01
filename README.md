@@ -8,6 +8,7 @@
 See README.md for general usage instructions and comments
 
 ## Directory Structure
+Ordered by project workflow (e.g., not alphabetical)
 
 **Directory:** partitionDemos/
 
