@@ -20,3 +20,5 @@
     - Bassett, D. S., Wymbs, N. F., Porter, M. A., Mucha, P. J., Carlson, J. M., & Grafton, S. T. (2011). Dynamic reconfiguration of human brain networks during learning. Proceedings of the National Academy of Sciences of the United States of America, 108(18), 7641–7646. https://doi.org/10.1073/pnas.1018985108
     - Bassett, D. S., Wymbs, N. F., Rombach, M. P., Porter, M. A., Mucha, P. J., & Grafton, S. T. (2013). Task-based core-periphery organization of human brain dynamics. PLoS Computational Biology, 9(9), e1003171. https://doi.org/10.1371/journal.pcbi.1003171
     - **Further info & source formulas**:  www.pnas.org/lookup/suppl/doi:10.1073/pnas.1018985108/-/DCSupplemental
+
+4. **All other metrics**: see https://sites.google.com/site/bctnet/ for source code for all other network metrics utilized in the present study 
